@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/joomla-articles-catid">joomla-articles-catid</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/joomla-articles-catid"><strong>https://abraxaslabs.tech/research/joomla-articles-catid</strong></a>
+</p>
+
 
 # joomla-articles-catid
 
